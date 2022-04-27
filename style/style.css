@@ -1,0 +1,51 @@
+/* start by reseting margin, border and padding */
+*{
+    padding:5px;
+    margin:5px;
+    box-sizing: 0px;
+    font-family: monospace;
+}
+body{
+    background-color:#9AC6DA ;
+
+}
+div{
+    background-color: #DDB789;
+    
+}
+#otherpgs{
+    background-color: #DDB789;
+
+}
+h2{
+    padding: 5px;
+        color: #CFF0FF;
+
+}
+/* WE LEARNED: refer to class with "." and id with "#" */
+
+p{
+    padding: 1px;
+}
+.PGLI{
+    color: #567B8C;
+
+}
+.PGTL{
+    padding: 5px;
+    color: #567B8C;
+}
+.PokemonCombo{
+    padding: 10px;
+    width:50%;
+    height:50%;
+}
+.Arceus{
+    width: 50%;
+    height: 50%;
+}
+.HGSS{
+    width: 50%;
+    height: 50%;
+}
+
